@@ -8,3 +8,5 @@ PyCaret, an open source low-code machine learning library in Python, was announc
 This is like a dream come true for many Data Science Engineers.  I will attempt to prove or disapprove it by comparing the workflow with one of the projects I did on Pima Indian datasets.  In that project, I was using XGBoost algorithm to predict the patient diabetic inclination.
 
 Reference: https://github.com/koayst/rp_machine_learning/blob/master/Pima_Indian.ipynb
+
+This is a binary classification problem.
