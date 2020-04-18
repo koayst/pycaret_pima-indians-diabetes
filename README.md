@@ -1,4 +1,4 @@
-# pycaret_01
+# pycaret_pima-indians-diabetes
 Test out PyCaret to determine the workflow convenience it promised. 
 
 Source: https://towardsdatascience.com/announcing-pycaret-an-open-source-low-code-machine-learning-library-in-python-4a1f1aad8d46
